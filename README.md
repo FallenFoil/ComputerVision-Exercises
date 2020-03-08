@@ -25,5 +25,5 @@ Three Computer Vision exercises.
 
 ## Contributors
 
-[Luís Macedo](https://github.com/FallenFoil)
-[Carlos Castro](https://github.com/carlosc20)
+- [Luís Macedo](https://github.com/FallenFoil)
+- [Carlos Castro](https://github.com/carlosc20)
